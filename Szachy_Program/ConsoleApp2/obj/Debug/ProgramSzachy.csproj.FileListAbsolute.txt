@@ -1,0 +1,18 @@
+c:\users\kuba\documents\visual studio 2017\Projects\ConsoleApp2\ConsoleApp2\bin\Debug\ProgramSzachy.exe.config
+c:\users\kuba\documents\visual studio 2017\Projects\ConsoleApp2\ConsoleApp2\bin\Debug\ProgramSzachy.exe
+c:\users\kuba\documents\visual studio 2017\Projects\ConsoleApp2\ConsoleApp2\bin\Debug\ProgramSzachy.pdb
+c:\users\kuba\documents\visual studio 2017\Projects\ConsoleApp2\ConsoleApp2\obj\Debug\ProgramSzachy.csprojResolveAssemblyReference.cache
+c:\users\kuba\documents\visual studio 2017\Projects\ConsoleApp2\ConsoleApp2\obj\Debug\ProgramSzachy.exe
+c:\users\kuba\documents\visual studio 2017\Projects\ConsoleApp2\ConsoleApp2\obj\Debug\ProgramSzachy.pdb
+C:\Users\MrKom\Desktop\ProgramSzachy-master\ConsoleApp2\bin\Debug\ProgramSzachy.exe.config
+C:\Users\MrKom\Desktop\ProgramSzachy-master\ConsoleApp2\bin\Debug\ProgramSzachy.exe
+C:\Users\MrKom\Desktop\ProgramSzachy-master\ConsoleApp2\bin\Debug\ProgramSzachy.pdb
+C:\Users\MrKom\Desktop\ProgramSzachy-master\ConsoleApp2\obj\Debug\ProgramSzachy.csprojResolveAssemblyReference.cache
+C:\Users\MrKom\Desktop\ProgramSzachy-master\ConsoleApp2\obj\Debug\ProgramSzachy.exe
+C:\Users\MrKom\Desktop\ProgramSzachy-master\ConsoleApp2\obj\Debug\ProgramSzachy.pdb
+C:\Users\Rafał\Desktop\SZACHY_ZADANIA-master\SZACHY_PROGRAMOWANIE\ConsoleApp2\bin\Debug\ProgramSzachy.exe.config
+C:\Users\Rafał\Desktop\SZACHY_ZADANIA-master\SZACHY_PROGRAMOWANIE\ConsoleApp2\obj\Debug\ProgramSzachy.exe
+C:\Users\Rafał\Desktop\SZACHY_ZADANIA-master\SZACHY_PROGRAMOWANIE\ConsoleApp2\obj\Debug\ProgramSzachy.pdb
+C:\Users\Rafał\Desktop\SZACHY_ZADANIA-master\SZACHY_PROGRAMOWANIE\ConsoleApp2\bin\Debug\ProgramSzachy.exe
+C:\Users\Rafał\Desktop\SZACHY_ZADANIA-master\SZACHY_PROGRAMOWANIE\ConsoleApp2\bin\Debug\ProgramSzachy.pdb
+C:\Users\Rafał\Desktop\SZACHY_ZADANIA-master\SZACHY_PROGRAMOWANIE\ConsoleApp2\obj\Debug\ProgramSzachy.csprojResolveAssemblyReference.cache
